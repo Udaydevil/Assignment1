@@ -60,11 +60,11 @@
         
     </table>
         <br><br><br>
-        <img src="20200919_184050.jpg" align="right"><br><br><br><br>
+        <img src="20200919_184050.jpg" align="right"><br><br><br><br><br><br><br><br>
     **Attach your allotment order in the form of pdf
-      <a href="Allotment%20Order(1).PDF">  <input type="button" value="Upload/Attach"></a><br>
+      <a href="allot.PDF">  <input type="button" value="Upload/Attach"></a><br>
         <audio controls>
-        <source src="wscubetechindia_20200920_130626_0%5BExtAudio%5D.mp3"></audio><br><br>
+        <source src="audiofile.mp3"></audio><br><br>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/ChPLImCJ_9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br><br><br>
         
