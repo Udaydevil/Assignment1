@@ -35,7 +35,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;<font size="6">Password :</font>
         <font size="4">     <input type="password">
         </font><br><br>
-   ---------------------------------------------------------------------------------*****Please fill the following details of your educational institutions*****----------------------------------------------------------------------
+   ----------------------------------------------------*****Please fill the following details of your educational institutions*****----------------------------------------------
     <table border=3 align="center">
         <tr>
             
@@ -60,7 +60,7 @@
         
     </table>
         <br><br><br>
-        <img src="20200919_184050.jpg" align="right"><br><br><br><br><br><br><br><br>
+        <img src="20200919_184050.jpg" align="right"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
     **Attach your allotment order in the form of pdf
       <a href="allot.PDF">  <input type="button" value="Upload/Attach"></a><br>
         <audio controls>
@@ -68,7 +68,7 @@
         <iframe width="560" height="315" src="https://www.youtube.com/embed/ChPLImCJ_9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br><br><br>
         
-        <h3 align="right">Tags with their attributes used in this webpage</h3>
+        <h3>Tags with their attributes used in this webpage</h3>
         <table border=3 align="right">
             <tr>
                 <th align="center">Tag</th>
@@ -166,11 +166,11 @@
             <li>li</li>
             <li>b</li>
         </ul>
-        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-        <br><br><br><br><br><b>FOR ANY INSTANCE, CLICK ON THE SOCIAL MEDIA ICONS AND PRESENT YOUR PROBLEMS!! </b><br><br>
-        <a href="https://mail.google.com/mail/u/0/#inbox"><img src="mail.jpg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.instagram.com/"><img src="insta.jpg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.facebook.com/"><img src="fb.jpg"></a>
+        <br><br><br><br><br><br>
+        <b>FOR ANY INSTANCE, CLICK ON THE SOCIAL MEDIA ICONS AND PRESENT YOUR PROBLEMS!! </b><br><br>
+        <a href="https://mail.google.com/mail/u/0/#inbox"><img src="mail.jpg" ></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.instagram.com/"><img src="insta.jpg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.facebook.com/"><img src="fb.jpg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://twitter.com/home"><img src="twitter.jpg" align="right"></a>
         
         
